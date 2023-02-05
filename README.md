@@ -19,7 +19,7 @@ Public search book page:
 
 Staff home page:
 
-<img src="images/staff.PNG" width="400px" alt="staff"></img>
+<img src="images/staff.PNG" width="800px" alt="staff"></img>
 <!-- ![alt text](staff.png "staff") -->
 
 Staff page - Search book page:
