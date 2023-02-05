@@ -13,17 +13,17 @@ Home page:
 ![alt text](home_page.png "home")
 
 Public search book page:
-![alt text](public_search.png "publicsearch")
+![alt text](images/public_search.png "publicsearch")
 
 Staff home page:
-![alt text](staff.png "staff")
+![alt text](images/staff.png "staff")
 
 Staff page - Search book page:
-![alt text](staff_search_book.png "staffsearchbook")
+![alt text](images/staff_search_book.png "staffsearchbook")
 
 Staff page - Search borrower page:
-![alt text](search_borrower.png "searchborrower")
+![alt text](images/search_borrower.png "searchborrower")
 
 Staff page - Update borrower page:
-![alt text](update_borrower.png "updateborrower")
+![alt text](images/update_borrower.png "updateborrower")
 
