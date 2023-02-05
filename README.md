@@ -10,20 +10,20 @@ A flask web app to manage library data
 Demo for git and pA
 
 Home page:
-![alt text](home_page.png "home")
+![alt text](images/home_page.PNG "home")
 
 Public search book page:
-![alt text](images/public_search.png "publicsearch")
+![alt text](images/public_search.PNG "publicsearch")
 
 Staff home page:
-![alt text](images/staff.png "staff")
+![alt text](images/staff.PNG "staff")
 
 Staff page - Search book page:
-![alt text](images/staff_search_book.png "staffsearchbook")
+![alt text](images/staff_search_book.PNG "staffsearchbook")
 
 Staff page - Search borrower page:
-![alt text](images/search_borrower.png "searchborrower")
+![alt text](images/search_borrower.PNG "searchborrower")
 
 Staff page - Update borrower page:
-![alt text](images/update_borrower.png "updateborrower")
+![alt text](images/update_borrower.PNG "updateborrower")
 
