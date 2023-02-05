@@ -7,23 +7,33 @@ A flask web app to manage library data
 #### H4
 ##### H5
 
-Demo for git and pA
-
 Home page:
-![alt text](images/home_page.PNG "home")
+
+<img src="images/home_page.PNG" width="100px" alt="home"></img>
+<!-- ![alt text](home_page.png "home") -->
 
 Public search book page:
-![alt text](images/public_search.PNG "publicsearch")
+
+<img src="images/public_search.PNG" width="100px" alt="publicsearch"></img> 
+<!-- ![alt text](public_search.png "publicsearch") -->
 
 Staff home page:
-![alt text](images/staff.PNG "staff")
+
+<img src="images/staff.PNG" width="100px" alt="staff"></img>
+<!-- ![alt text](staff.png "staff") -->
 
 Staff page - Search book page:
-![alt text](images/staff_search_book.PNG "staffsearchbook")
+
+<img src="images/staff_search_book.PNG" width="100px" alt="staffsearchbook"></img>
+<!-- ![alt text](staff_search_book.png "staffsearchbook") -->
 
 Staff page - Search borrower page:
-![alt text](images/search_borrower.PNG "searchborrower")
+
+<img src="images/search_borrower.PNG" width="100px" alt="searchborrower"></img>
+<!-- ![alt text](search_borrower.png "searchborrower") -->
 
 Staff page - Update borrower page:
-![alt text](images/update_borrower.PNG "updateborrower")
+
+<img src="images/update_borrower.PNG" width="100px" alt="updateborrower"></img>
+<!-- ![alt text](update_borrower.png "updateborrower") -->
 
