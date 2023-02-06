@@ -34,7 +34,7 @@ Apart form checking the borrower details, an Update function is provided on each
 <img src="images/search_borrower.PNG" width="400px" alt="searchborrower"></img>
 
 Update Borrower function needs staff to search borrower first, and then update the searched borrower, or staff can use List All Borrowers to list all the borrower and find the one to update.
-After clicking Update, the staff_update_borrower will pass the exact borrower detail to route /update_borrower/&lt;borrowerid&lt;, staff submit changes after editting any information, and then the borrowers table will updated by the change.
+After clicking Update, the staff_update_borrower will pass the exact borrower detail to route /update_borrower/&lt;borrowerid>;, staff submit changes after editting any information, and then the borrowers table will updated by the change.
 
 <img src="images/update_borrower.PNG" width="400px" alt="updateborrower"></img>
 
